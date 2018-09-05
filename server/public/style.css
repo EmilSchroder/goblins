@@ -1,0 +1,16 @@
+body {
+  background-image: url(https://wallpaperplay.com/walls/full/2/1/6/62223.jpg);
+  display: flex;
+
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+img{
+  height: 400px;
+  width: 300px;
+}
